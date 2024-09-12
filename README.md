@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on new projects or revisions on existing projects.
 - 📫 You can reach me easily on LinkedIn "https://www.linkedin.com/in/maaz-ahmad-82136b27a/".
-- 😄 Pronouns: He/his.
+- 😄 Pronouns: He/him.
 - ⚡ Fun fact: I just Love to Code.
 
 <!---
